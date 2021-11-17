@@ -1,2 +1,2 @@
 # nftcollection
-NFT Collection (
+NFT Collection (for testing purposes only)
